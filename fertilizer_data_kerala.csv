@@ -1,0 +1,501 @@
+Soil_Type,Crop_Type,Season,Soil_pH,Nitrogen,Phosphorus,Potassium,Fertilizer_Name,Fertilizer_Amount_kg_acre
+Sandy Loam,Rice (Paddy),Puncha (Summer),4.6,47,78,118,Urea,122.68
+Laterite Soil,Rubber,Virippu (Kharif),5.6,53,72,53,Urea,175.1
+Sandy Loam,Cardamom,Puncha (Summer),6.0,85,69,29,20-20-20,139.46
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.5,101,47,64,Potash,154.03
+Sandy Loam,Coconut,Puncha (Summer),6.1,24,51,101,Urea,193.56
+Forest Loam,Rubber,Virippu (Kharif),4.6,109,58,68,18-18-18,147.58
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.2,83,37,36,DAP,152.68
+Forest Loam,Cardamom,Puncha (Summer),6.0,72,75,97,Potash,139.6
+Laterite Soil,Coconut,Mundakan (Rabi),6.8,86,76,105,20-20-20,153.03
+Laterite Soil,Coconut,Puncha (Summer),6.9,29,10,122,Urea,192.79
+Sandy Loam,Rice (Paddy),Mundakan (Rabi),6.8,29,34,144,Urea,167.73
+Coastal Alluvium,Coconut,Virippu (Kharif),6.3,61,64,116,20-20-20,177.21
+Laterite Soil,Pepper,Mundakan (Rabi),6.2,96,37,40,20-20-20,157.16
+Laterite Soil,Cashew,Puncha (Summer),4.7,57,17,138,Factamfos,159.69
+Laterite Soil,Banana,Puncha (Summer),4.8,77,57,99,Urea,158.88
+Sandy Loam,Pepper,Mundakan (Rabi),6.4,37,49,28,18-18-18,150.15
+Sandy Loam,Cashew,Puncha (Summer),5.7,59,68,147,Urea,148.24
+Forest Loam,Banana,Puncha (Summer),6.7,77,55,141,Urea,121.02
+Sandy Loam,Cardamom,Puncha (Summer),5.4,62,52,68,20-20-20,170.94
+Laterite Soil,Rice (Paddy),Virippu (Kharif),4.7,27,10,26,Urea,163.73
+Coastal Alluvium,Coconut,Puncha (Summer),4.7,109,25,68,Potash,187.52
+Forest Loam,Coconut,Virippu (Kharif),5.6,22,49,146,Urea,158.34
+Forest Loam,Cardamom,Puncha (Summer),4.7,26,42,45,DAP,189.09
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.7,85,27,58,DAP,160.15
+Laterite Soil,Pepper,Mundakan (Rabi),5.4,29,37,27,DAP,186.37
+Laterite Soil,Banana,Virippu (Kharif),6.4,79,63,72,Potash,154.95
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.5,27,26,61,Urea,179.11
+Forest Loam,Rice (Paddy),Puncha (Summer),7.1,28,69,43,Urea,167.73
+Sandy Loam,Cardamom,Virippu (Kharif),4.6,50,34,21,DAP,154.08
+Laterite Soil,Coconut,Puncha (Summer),4.7,54,70,43,Potash,177.42
+Sandy Loam,Coconut,Puncha (Summer),6.8,27,23,147,Urea,175.3
+Laterite Soil,Coconut,Mundakan (Rabi),6.6,30,55,72,Potash,198.11
+Laterite Soil,Coconut,Puncha (Summer),5.3,104,20,97,20-20-20,171.21
+Laterite Soil,Cardamom,Virippu (Kharif),6.7,54,78,94,18-18-18,117.62
+Laterite Soil,Cardamom,Virippu (Kharif),6.1,35,57,130,20-20-20,145.86
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.6,32,17,149,Urea,147.39
+Coastal Alluvium,Coconut,Mundakan (Rabi),5.4,100,25,70,Potash,197.27
+Red Soil,Coconut,Mundakan (Rabi),6.8,43,43,95,Urea,186.54
+Forest Loam,Rice (Paddy),Mundakan (Rabi),5.0,56,75,107,Urea,140.7
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.2,67,77,32,Potash,179.84
+Forest Loam,Rice (Paddy),Virippu (Kharif),7.0,95,27,51,DAP,155.65
+Red Soil,Rice (Paddy),Virippu (Kharif),4.7,45,11,30,Urea,199.29
+Coastal Alluvium,Rubber,Virippu (Kharif),6.4,104,21,147,18-18-18,176.91
+Coastal Alluvium,Cardamom,Virippu (Kharif),5.4,85,72,140,18-18-18,122.92
+Laterite Soil,Rice (Paddy),Virippu (Kharif),6.4,56,53,68,Factamfos,162.24
+Sandy Loam,Coconut,Virippu (Kharif),5.1,55,34,134,20-20-20,181.9
+Laterite Soil,Cashew,Virippu (Kharif),7.4,75,14,143,20-20-20,182.8
+Sandy Loam,Pepper,Mundakan (Rabi),5.5,108,15,89,18-18-18,146.66
+Forest Loam,Coconut,Virippu (Kharif),5.6,106,54,128,20-20-20,155.26
+Coastal Alluvium,Cardamom,Puncha (Summer),6.8,119,59,23,Potash,157.81
+Laterite Soil,Coconut,Virippu (Kharif),4.9,37,59,111,Urea,191.98
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.4,36,37,122,Urea,155.01
+Laterite Soil,Rubber,Mundakan (Rabi),5.2,78,54,94,18-18-18,176.24
+Sandy Loam,Pepper,Puncha (Summer),4.7,92,23,130,DAP,121.01
+Laterite Soil,Rubber,Puncha (Summer),7.2,75,68,108,Urea,168.72
+Laterite Soil,Pepper,Puncha (Summer),5.1,46,37,142,DAP,121.25
+Coastal Alluvium,Cashew,Puncha (Summer),5.1,32,69,41,18-18-18,191.46
+Forest Loam,Rice (Paddy),Puncha (Summer),6.5,105,56,28,Potash,160.31
+Sandy Loam,Coconut,Mundakan (Rabi),6.5,107,12,138,20-20-20,162.99
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.1,72,36,61,DAP,184.35
+Coastal Alluvium,Coconut,Mundakan (Rabi),5.2,70,74,131,20-20-20,147.23
+Laterite Soil,Banana,Mundakan (Rabi),5.3,36,43,111,Potash,170.75
+Sandy Loam,Coconut,Virippu (Kharif),6.6,113,53,109,20-20-20,130.96
+Coastal Alluvium,Coconut,Puncha (Summer),6.5,79,18,105,20-20-20,174.46
+Coastal Alluvium,Cashew,Virippu (Kharif),5.6,45,45,110,Potash,173.97
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.0,41,47,51,Urea,176.9
+Laterite Soil,Rice (Paddy),Virippu (Kharif),4.7,116,29,131,DAP,140.45
+Sandy Loam,Rice (Paddy),Puncha (Summer),7.2,39,79,147,Factamfos,134.38
+Laterite Soil,Rubber,Mundakan (Rabi),5.1,25,17,108,Factamfos,216.41
+Laterite Soil,Rubber,Puncha (Summer),6.3,58,46,22,18-18-18,211.75
+Laterite Soil,Cardamom,Mundakan (Rabi),5.0,112,12,96,DAP,144.43
+Laterite Soil,Cashew,Virippu (Kharif),5.1,95,10,33,DAP,207.81
+Coastal Alluvium,Rubber,Virippu (Kharif),4.6,65,45,143,Urea,176.38
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.1,56,14,37,Urea,193.7
+Forest Loam,Coconut,Puncha (Summer),6.0,46,64,76,Potash,196.55
+Laterite Soil,Pepper,Puncha (Summer),7.1,26,28,107,Potash,168.31
+Laterite Soil,Coconut,Puncha (Summer),6.3,114,11,109,20-20-20,152.47
+Laterite Soil,Rubber,Virippu (Kharif),5.9,30,27,120,Factamfos,191.74
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.6,50,53,91,Urea,163.14
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),5.1,89,39,34,DAP,177.13
+Sandy Loam,Banana,Mundakan (Rabi),5.0,44,74,62,DAP,169.58
+Laterite Soil,Rice (Paddy),Puncha (Summer),6.2,48,22,110,Urea,163.06
+Laterite Soil,Pepper,Puncha (Summer),6.2,57,75,43,20-20-20,161.28
+Laterite Soil,Coconut,Virippu (Kharif),5.3,46,38,67,Potash,213.51
+Laterite Soil,Cardamom,Puncha (Summer),6.4,113,31,71,18-18-18,136.44
+Coastal Alluvium,Rubber,Puncha (Summer),5.0,63,22,57,Urea,182.66
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.6,102,67,141,Potash,124.63
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.5,68,15,124,DAP,167.07
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),4.7,31,73,82,Factamfos,164.21
+Laterite Soil,Pepper,Virippu (Kharif),5.2,96,69,58,18-18-18,110.06
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.1,68,49,83,Potash,154.42
+Forest Loam,Pepper,Puncha (Summer),6.9,27,56,63,20-20-20,172.41
+Laterite Soil,Pepper,Puncha (Summer),5.4,61,60,84,18-18-18,163.49
+Sandy Loam,Rice (Paddy),Puncha (Summer),6.0,40,29,144,Urea,141.18
+Laterite Soil,Rubber,Mundakan (Rabi),6.9,48,73,121,Urea,166.19
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.0,110,52,56,Potash,146.56
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),7.0,29,26,110,Factamfos,147.69
+Red Soil,Coconut,Mundakan (Rabi),5.6,43,14,55,18-18-18,214.65
+Forest Loam,Rice (Paddy),Virippu (Kharif),4.7,52,36,145,Urea,122.93
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),4.9,38,46,132,Factamfos,173.99
+Laterite Soil,Banana,Mundakan (Rabi),6.7,113,22,127,Urea,147.5
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.0,93,23,47,DAP,168.02
+Coastal Alluvium,Pepper,Puncha (Summer),6.8,67,76,144,20-20-20,108.12
+Laterite Soil,Rubber,Puncha (Summer),7.1,37,68,79,Urea,191.43
+Forest Loam,Rice (Paddy),Mundakan (Rabi),6.1,96,75,65,Potash,143.01
+Forest Loam,Rice (Paddy),Virippu (Kharif),6.1,29,57,134,Urea,180.41
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),5.4,100,56,144,Potash,121.84
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.5,83,77,72,Potash,154.8
+Coastal Alluvium,Rubber,Virippu (Kharif),7.3,37,60,48,18-18-18,212.34
+Coastal Alluvium,Rubber,Puncha (Summer),5.0,80,68,69,18-18-18,173.45
+Laterite Soil,Coconut,Puncha (Summer),5.3,94,26,73,Potash,192.04
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.9,97,34,139,DAP,141.97
+Coastal Alluvium,Rubber,Virippu (Kharif),4.6,94,75,137,18-18-18,160.45
+Laterite Soil,Coconut,Virippu (Kharif),7.5,77,71,83,20-20-20,180.99
+Red Soil,Rice (Paddy),Virippu (Kharif),5.2,100,41,67,Potash,154.01
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.8,56,11,109,Factamfos,168.41
+Coastal Alluvium,Coconut,Mundakan (Rabi),6.1,71,19,57,Potash,206.41
+Coastal Alluvium,Rubber,Virippu (Kharif),7.0,83,62,81,18-18-18,180.05
+Coastal Alluvium,Coconut,Virippu (Kharif),4.6,74,53,147,20-20-20,165.21
+Laterite Soil,Pepper,Puncha (Summer),7.4,48,31,70,Potash,186.21
+Laterite Soil,Rubber,Virippu (Kharif),6.1,41,36,73,Factamfos,207.22
+Sandy Loam,Banana,Puncha (Summer),5.9,45,10,116,18-18-18,177.46
+Coastal Alluvium,Rubber,Puncha (Summer),4.6,72,47,31,Urea,225.41
+Sandy Loam,Rice (Paddy),Puncha (Summer),6.5,83,59,25,Potash,166.52
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),4.7,118,62,40,Potash,159.39
+Forest Loam,Rice (Paddy),Mundakan (Rabi),5.2,69,13,72,DAP,187.46
+Laterite Soil,Coconut,Puncha (Summer),5.9,88,64,27,Potash,182.87
+Red Soil,Rice (Paddy),Virippu (Kharif),6.3,82,32,64,DAP,153.59
+Forest Loam,Cardamom,Puncha (Summer),7.3,20,76,90,18-18-18,151.21
+Forest Loam,Rice (Paddy),Virippu (Kharif),6.2,47,44,22,Urea,169.65
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.4,25,68,136,Factamfos,133.34
+Laterite Soil,Rice (Paddy),Virippu (Kharif),4.5,55,23,26,Factamfos,196.27
+Sandy Loam,Rice (Paddy),Virippu (Kharif),5.9,69,75,92,Potash,128.8
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.4,34,68,145,Factamfos,90.79
+Sandy Loam,Coconut,Puncha (Summer),5.7,50,12,83,20-20-20,200.54
+Coastal Alluvium,Coconut,Puncha (Summer),6.6,20,24,110,Urea,203.84
+Laterite Soil,Coconut,Virippu (Kharif),4.7,43,45,81,Urea,196.62
+Sandy Loam,Coconut,Virippu (Kharif),4.5,108,56,30,Potash,154.39
+Sandy Loam,Rice (Paddy),Mundakan (Rabi),5.0,105,75,115,Potash,95.28
+Sandy Loam,Coconut,Puncha (Summer),4.6,91,59,60,Potash,161.95
+Laterite Soil,Pepper,Virippu (Kharif),5.7,117,40,38,20-20-20,130.49
+Sandy Loam,Coconut,Virippu (Kharif),6.1,69,11,51,Potash,194.49
+Laterite Soil,Rice (Paddy),Puncha (Summer),4.9,89,36,42,DAP,173.58
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),7.3,62,78,32,Potash,159.65
+Coastal Alluvium,Coconut,Mundakan (Rabi),6.6,103,71,100,20-20-20,143.34
+Red Soil,Pepper,Puncha (Summer),5.1,116,62,128,18-18-18,114.09
+Laterite Soil,Coconut,Virippu (Kharif),5.8,51,77,147,20-20-20,150.26
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.2,27,50,41,Factamfos,173.92
+Coastal Alluvium,Rubber,Puncha (Summer),6.0,47,66,112,Urea,174.99
+Forest Loam,Coconut,Puncha (Summer),5.5,63,14,141,20-20-20,165.61
+Laterite Soil,Coconut,Puncha (Summer),4.6,108,42,42,Potash,206.06
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),5.6,43,54,24,Factamfos,191.59
+Red Soil,Pepper,Puncha (Summer),7.4,42,15,130,Potash,147.97
+Laterite Soil,Coconut,Virippu (Kharif),6.1,97,40,126,20-20-20,154.44
+Sandy Loam,Rubber,Puncha (Summer),4.5,74,32,62,Urea,230.05
+Laterite Soil,Rice (Paddy),Virippu (Kharif),6.5,66,67,70,Potash,132.4
+Laterite Soil,Pepper,Virippu (Kharif),7.0,109,20,117,Potash,121.45
+Coastal Alluvium,Cashew,Puncha (Summer),4.8,94,54,115,20-20-20,162.28
+Sandy Loam,Coconut,Mundakan (Rabi),7.2,39,10,90,Urea,214.04
+Laterite Soil,Coconut,Mundakan (Rabi),4.7,73,61,146,20-20-20,153.33
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),5.3,67,73,40,Potash,182.51
+Laterite Soil,Coconut,Mundakan (Rabi),5.4,102,74,86,20-20-20,177.75
+Sandy Loam,Coconut,Virippu (Kharif),5.3,84,29,23,18-18-18,200.43
+Red Soil,Coconut,Puncha (Summer),5.4,24,67,112,Urea,193.56
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.5,54,39,49,Urea,172.03
+Sandy Loam,Pepper,Mundakan (Rabi),4.6,72,53,116,18-18-18,131.97
+Laterite Soil,Rubber,Mundakan (Rabi),7.0,107,64,39,Urea,175.81
+Sandy Loam,Rubber,Virippu (Kharif),5.9,22,45,140,18-18-18,172.91
+Coastal Alluvium,Cardamom,Mundakan (Rabi),5.3,33,28,72,DAP,150.13
+Laterite Soil,Coconut,Virippu (Kharif),5.6,83,51,136,20-20-20,167.7
+Sandy Loam,Coconut,Virippu (Kharif),6.0,67,71,60,Potash,186.28
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),4.7,69,31,144,DAP,131.15
+Sandy Loam,Coconut,Virippu (Kharif),7.4,84,48,139,20-20-20,158.71
+Laterite Soil,Rubber,Mundakan (Rabi),5.1,84,35,86,18-18-18,187.54
+Coastal Alluvium,Cardamom,Puncha (Summer),5.8,79,44,119,20-20-20,166.29
+Laterite Soil,Coconut,Virippu (Kharif),6.7,76,23,113,20-20-20,175.02
+Coastal Alluvium,Coconut,Puncha (Summer),6.1,116,21,57,Potash,166.99
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.8,56,49,60,Urea,175.93
+Laterite Soil,Coconut,Virippu (Kharif),6.3,84,77,68,Potash,158.24
+Laterite Soil,Cashew,Mundakan (Rabi),6.4,87,16,118,18-18-18,174.28
+Laterite Soil,Coconut,Puncha (Summer),7.5,67,49,102,20-20-20,167.95
+Sandy Loam,Pepper,Virippu (Kharif),5.5,46,65,41,20-20-20,162.74
+Forest Loam,Rice (Paddy),Virippu (Kharif),4.5,91,60,124,Potash,151.41
+Coastal Alluvium,Pepper,Virippu (Kharif),5.1,51,41,83,DAP,139.47
+Sandy Loam,Coconut,Virippu (Kharif),7.4,55,64,58,Potash,200.75
+Laterite Soil,Coconut,Puncha (Summer),6.8,36,71,115,Urea,155.98
+Laterite Soil,Coconut,Virippu (Kharif),7.4,94,19,117,20-20-20,195.11
+Sandy Loam,Pepper,Mundakan (Rabi),4.6,90,76,60,18-18-18,147.8
+Forest Loam,Cardamom,Puncha (Summer),7.3,117,13,141,20-20-20,102.92
+Coastal Alluvium,Cashew,Mundakan (Rabi),7.3,74,41,99,DAP,175.55
+Laterite Soil,Rubber,Virippu (Kharif),7.0,67,41,32,18-18-18,195.1
+Forest Loam,Cashew,Mundakan (Rabi),6.9,54,65,59,Urea,158.72
+Laterite Soil,Pepper,Virippu (Kharif),6.8,51,73,64,20-20-20,162.79
+Sandy Loam,Coconut,Mundakan (Rabi),6.9,80,39,105,20-20-20,172.07
+Coastal Alluvium,Coconut,Virippu (Kharif),6.2,99,57,52,Potash,204.52
+Sandy Loam,Pepper,Mundakan (Rabi),6.9,74,70,130,18-18-18,112.09
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.5,35,72,27,Factamfos,177.43
+Laterite Soil,Rice (Paddy),Virippu (Kharif),7.1,61,38,109,DAP,146.68
+Laterite Soil,Cardamom,Mundakan (Rabi),7.0,72,67,66,18-18-18,155.6
+Laterite Soil,Pepper,Virippu (Kharif),6.2,114,59,121,18-18-18,79.14
+Laterite Soil,Rice (Paddy),Virippu (Kharif),6.2,61,51,68,Potash,166.26
+Sandy Loam,Cashew,Mundakan (Rabi),4.8,93,58,82,DAP,177.22
+Laterite Soil,Rubber,Puncha (Summer),4.9,117,19,124,18-18-18,161.94
+Laterite Soil,Coconut,Virippu (Kharif),7.5,43,34,63,Potash,184.51
+Forest Loam,Banana,Virippu (Kharif),4.9,57,51,56,Factamfos,171.16
+Red Soil,Coconut,Mundakan (Rabi),5.0,30,22,120,Urea,217.47
+Forest Loam,Rice (Paddy),Puncha (Summer),4.8,84,20,52,DAP,173.09
+Sandy Loam,Cardamom,Puncha (Summer),5.1,117,68,32,20-20-20,156.14
+Red Soil,Rice (Paddy),Puncha (Summer),6.3,42,58,93,Factamfos,140.8
+Laterite Soil,Pepper,Mundakan (Rabi),7.2,58,70,126,Potash,124.01
+Forest Loam,Coconut,Mundakan (Rabi),5.4,87,66,34,Potash,181.3
+Laterite Soil,Rice (Paddy),Virippu (Kharif),5.6,111,69,102,Potash,127.12
+Forest Loam,Rice (Paddy),Puncha (Summer),5.1,115,15,119,DAP,135.83
+Laterite Soil,Rice (Paddy),Puncha (Summer),4.8,100,66,48,Potash,138.05
+Coastal Alluvium,Cardamom,Puncha (Summer),7.1,79,16,72,Potash,149.26
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),4.9,111,42,127,Potash,128.24
+Laterite Soil,Banana,Mundakan (Rabi),5.1,89,68,78,Potash,136.19
+Coastal Alluvium,Pepper,Mundakan (Rabi),7.1,57,50,91,18-18-18,150.08
+Laterite Soil,Rubber,Puncha (Summer),4.5,61,63,24,Urea,212.95
+Laterite Soil,Coconut,Mundakan (Rabi),5.9,34,65,47,Potash,206.11
+Laterite Soil,Coconut,Virippu (Kharif),6.7,40,58,144,Urea,175.94
+Laterite Soil,Rice (Paddy),Puncha (Summer),6.5,43,76,111,Urea,132.08
+Laterite Soil,Cardamom,Virippu (Kharif),4.9,23,29,109,DAP,162.13
+Forest Loam,Banana,Virippu (Kharif),5.8,30,74,29,Potash,160.37
+Red Soil,Coconut,Puncha (Summer),5.4,50,77,22,18-18-18,196.78
+Laterite Soil,Coconut,Puncha (Summer),5.3,47,18,57,Potash,207.76
+Laterite Soil,Pepper,Virippu (Kharif),5.7,119,73,53,Potash,131.03
+Laterite Soil,Coconut,Virippu (Kharif),6.8,102,10,32,18-18-18,235.14
+Coastal Alluvium,Coconut,Puncha (Summer),6.6,28,53,96,Urea,173.88
+Laterite Soil,Coconut,Mundakan (Rabi),5.2,94,35,72,18-18-18,183.77
+Sandy Loam,Cashew,Puncha (Summer),5.2,49,45,34,Potash,209.08
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.6,77,29,105,DAP,146.32
+Laterite Soil,Rice (Paddy),Virippu (Kharif),5.3,87,21,60,DAP,173.12
+Sandy Loam,Rice (Paddy),Puncha (Summer),5.7,71,57,54,Potash,167.82
+Sandy Loam,Pepper,Puncha (Summer),6.6,31,28,50,18-18-18,188.2
+Forest Loam,Rice (Paddy),Puncha (Summer),6.5,59,72,95,Urea,136.07
+Sandy Loam,Coconut,Puncha (Summer),5.5,113,41,55,Potash,171.41
+Coastal Alluvium,Rubber,Virippu (Kharif),5.2,79,38,85,Urea,193.12
+Forest Loam,Coconut,Mundakan (Rabi),6.5,74,43,43,Potash,198.89
+Laterite Soil,Coconut,Virippu (Kharif),5.1,67,78,148,20-20-20,145.61
+Forest Loam,Pepper,Mundakan (Rabi),5.5,90,27,31,20-20-20,183.36
+Laterite Soil,Coconut,Mundakan (Rabi),7.2,104,61,79,Potash,155.07
+Sandy Loam,Rice (Paddy),Virippu (Kharif),4.5,88,65,98,Potash,165.59
+Laterite Soil,Pepper,Mundakan (Rabi),6.7,67,57,134,20-20-20,150.4
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.8,103,44,94,Potash,143.1
+Laterite Soil,Cardamom,Virippu (Kharif),6.8,20,26,142,18-18-18,142.08
+Sandy Loam,Rice (Paddy),Virippu (Kharif),4.7,70,30,108,DAP,140.41
+Forest Loam,Rice (Paddy),Mundakan (Rabi),5.9,48,36,125,Urea,126.8
+Forest Loam,Banana,Mundakan (Rabi),7.2,26,63,49,20-20-20,151.07
+Forest Loam,Coconut,Puncha (Summer),6.9,79,74,128,20-20-20,161.55
+Coastal Alluvium,Coconut,Virippu (Kharif),5.3,21,36,64,Potash,196.14
+Laterite Soil,Coconut,Mundakan (Rabi),5.5,101,52,129,20-20-20,141.67
+Laterite Soil,Coconut,Mundakan (Rabi),6.7,93,58,136,20-20-20,127.7
+Laterite Soil,Coconut,Puncha (Summer),5.9,86,72,115,20-20-20,129.4
+Laterite Soil,Banana,Puncha (Summer),6.7,103,27,62,Potash,168.41
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),5.6,118,58,115,Potash,132.32
+Red Soil,Coconut,Virippu (Kharif),5.8,54,57,124,20-20-20,190.6
+Coastal Alluvium,Coconut,Puncha (Summer),5.3,70,34,84,20-20-20,197.67
+Sandy Loam,Cashew,Puncha (Summer),5.3,39,65,83,Factamfos,176.9
+Sandy Loam,Pepper,Mundakan (Rabi),5.2,45,57,31,Potash,204.76
+Laterite Soil,Coconut,Puncha (Summer),5.9,70,54,76,Potash,191.77
+Laterite Soil,Rice (Paddy),Virippu (Kharif),6.2,41,17,109,Urea,164.74
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),7.3,58,59,46,Urea,169.94
+Laterite Soil,Pepper,Mundakan (Rabi),4.8,39,53,75,20-20-20,164.38
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),6.4,57,40,139,Urea,120.48
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.7,29,33,22,Urea,187.72
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.9,104,75,113,Potash,119.66
+Laterite Soil,Cashew,Mundakan (Rabi),6.5,69,57,33,Potash,202.21
+Laterite Soil,Banana,Puncha (Summer),6.9,111,13,68,Urea,159.97
+Laterite Soil,Banana,Mundakan (Rabi),6.7,63,76,141,18-18-18,160.44
+Sandy Loam,Cardamom,Mundakan (Rabi),4.8,27,68,146,Potash,116.95
+Sandy Loam,Rice (Paddy),Puncha (Summer),5.5,76,49,101,Potash,136.98
+Laterite Soil,Pepper,Virippu (Kharif),5.4,97,33,146,DAP,156.69
+Forest Loam,Rice (Paddy),Puncha (Summer),5.0,106,28,138,DAP,128.38
+Laterite Soil,Rice (Paddy),Virippu (Kharif),4.9,63,47,68,Potash,150.57
+Laterite Soil,Banana,Virippu (Kharif),5.4,105,66,133,20-20-20,121.88
+Laterite Soil,Coconut,Virippu (Kharif),5.4,62,13,25,18-18-18,231.03
+Laterite Soil,Coconut,Puncha (Summer),6.0,95,39,67,Potash,191.2
+Coastal Alluvium,Cashew,Puncha (Summer),5.7,84,28,35,DAP,215.81
+Coastal Alluvium,Rubber,Mundakan (Rabi),4.8,73,66,146,Urea,151.95
+Coastal Alluvium,Pepper,Puncha (Summer),7.0,31,30,63,20-20-20,170.05
+Sandy Loam,Pepper,Mundakan (Rabi),5.2,20,25,98,DAP,170.29
+Sandy Loam,Coconut,Puncha (Summer),6.4,108,59,35,Potash,191.73
+Laterite Soil,Cashew,Virippu (Kharif),5.6,33,37,145,Urea,176.64
+Sandy Loam,Coconut,Mundakan (Rabi),5.5,54,38,107,20-20-20,178.26
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.1,100,78,90,Potash,120.12
+Sandy Loam,Rubber,Virippu (Kharif),5.4,84,51,78,18-18-18,142.15
+Laterite Soil,Rubber,Mundakan (Rabi),5.4,119,24,125,Urea,142.12
+Laterite Soil,Pepper,Puncha (Summer),5.9,24,34,116,18-18-18,160.35
+Laterite Soil,Coconut,Puncha (Summer),6.2,46,23,20,Potash,233.57
+Coastal Alluvium,Coconut,Virippu (Kharif),6.6,83,33,64,Potash,176.04
+Sandy Loam,Rubber,Puncha (Summer),6.8,41,21,129,Factamfos,195.83
+Laterite Soil,Pepper,Puncha (Summer),6.6,106,73,121,Potash,107.37
+Forest Loam,Pepper,Mundakan (Rabi),5.3,119,37,64,DAP,140.11
+Laterite Soil,Rubber,Puncha (Summer),5.7,80,67,57,Urea,189.95
+Forest Loam,Pepper,Mundakan (Rabi),6.5,65,17,44,Potash,170.65
+Laterite Soil,Rubber,Puncha (Summer),6.4,50,58,104,Urea,189.8
+Laterite Soil,Rice (Paddy),Puncha (Summer),7.1,106,59,145,Potash,95.03
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),6.8,72,64,44,Potash,131.99
+Sandy Loam,Cardamom,Puncha (Summer),7.2,70,32,61,Potash,182.57
+Sandy Loam,Rubber,Virippu (Kharif),7.0,100,62,79,18-18-18,190.21
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),5.2,71,75,20,Potash,183.22
+Forest Loam,Rice (Paddy),Virippu (Kharif),4.7,77,27,41,DAP,165.13
+Sandy Loam,Coconut,Mundakan (Rabi),7.0,47,53,52,Potash,177.89
+Laterite Soil,Banana,Mundakan (Rabi),4.5,50,23,33,20-20-20,174.49
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.8,51,42,112,Factamfos,138.92
+Laterite Soil,Pepper,Puncha (Summer),7.2,41,43,141,20-20-20,163.54
+Laterite Soil,Rubber,Puncha (Summer),7.1,63,25,22,18-18-18,233.84
+Coastal Alluvium,Cardamom,Puncha (Summer),5.5,117,59,72,Potash,113.73
+Forest Loam,Pepper,Virippu (Kharif),7.1,32,19,134,18-18-18,183.36
+Laterite Soil,Coconut,Puncha (Summer),4.8,53,54,125,20-20-20,165.64
+Laterite Soil,Coconut,Mundakan (Rabi),6.2,92,68,112,20-20-20,152.21
+Laterite Soil,Banana,Virippu (Kharif),5.5,77,78,135,18-18-18,98.25
+Laterite Soil,Pepper,Puncha (Summer),7.2,65,61,64,18-18-18,162.89
+Sandy Loam,Cardamom,Puncha (Summer),6.9,72,76,39,20-20-20,139.82
+Laterite Soil,Coconut,Virippu (Kharif),5.0,99,42,145,20-20-20,143.8
+Coastal Alluvium,Coconut,Puncha (Summer),6.1,77,66,71,18-18-18,177.87
+Laterite Soil,Rubber,Puncha (Summer),6.0,67,40,122,Urea,172.93
+Coastal Alluvium,Coconut,Mundakan (Rabi),6.3,46,60,29,18-18-18,178.16
+Red Soil,Cardamom,Virippu (Kharif),5.8,89,79,74,Potash,150.98
+Forest Loam,Coconut,Mundakan (Rabi),5.4,67,57,77,18-18-18,193.96
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),6.6,48,74,116,Urea,139.76
+Coastal Alluvium,Rubber,Virippu (Kharif),4.8,97,61,49,Urea,183.33
+Forest Loam,Coconut,Puncha (Summer),6.0,94,42,95,20-20-20,195.23
+Forest Loam,Pepper,Mundakan (Rabi),5.1,30,79,57,18-18-18,164.53
+Laterite Soil,Rice (Paddy),Virippu (Kharif),5.6,33,71,90,Urea,168.21
+Laterite Soil,Coconut,Puncha (Summer),5.4,86,73,145,20-20-20,142.39
+Coastal Alluvium,Coconut,Mundakan (Rabi),4.8,102,71,69,Potash,167.3
+Laterite Soil,Coconut,Mundakan (Rabi),6.1,50,36,133,20-20-20,197.3
+Coastal Alluvium,Coconut,Mundakan (Rabi),6.1,29,31,81,Urea,218.15
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),7.0,37,69,55,Urea,178.85
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.2,114,66,121,Potash,138.01
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.8,37,70,79,Urea,164.53
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.3,104,33,32,DAP,157.66
+Sandy Loam,Coconut,Mundakan (Rabi),5.5,81,55,124,20-20-20,155.45
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.3,87,30,121,DAP,110.75
+Coastal Alluvium,Rubber,Mundakan (Rabi),7.0,108,58,50,Urea,192.02
+Coastal Alluvium,Rubber,Mundakan (Rabi),5.8,104,63,148,Urea,103.97
+Sandy Loam,Banana,Puncha (Summer),6.2,32,52,35,DAP,172.55
+Forest Loam,Cardamom,Mundakan (Rabi),4.5,50,72,55,Potash,150.6
+Red Soil,Cardamom,Mundakan (Rabi),4.8,95,62,53,18-18-18,168.7
+Red Soil,Rice (Paddy),Mundakan (Rabi),4.6,63,18,21,DAP,156.35
+Coastal Alluvium,Rubber,Virippu (Kharif),5.6,63,28,138,Urea,185.18
+Sandy Loam,Coconut,Mundakan (Rabi),5.7,108,27,43,Potash,176.93
+Laterite Soil,Rice (Paddy),Virippu (Kharif),4.6,67,61,114,Potash,152.56
+Laterite Soil,Coconut,Mundakan (Rabi),7.0,108,22,129,20-20-20,183.66
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.5,53,26,122,Urea,150.21
+Laterite Soil,Pepper,Virippu (Kharif),7.2,51,73,43,18-18-18,152.19
+Laterite Soil,Coconut,Mundakan (Rabi),7.3,119,74,111,20-20-20,141.71
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),5.1,25,43,133,Factamfos,126.69
+Laterite Soil,Coconut,Virippu (Kharif),5.4,32,12,24,Potash,218.62
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),7.3,41,45,40,Urea,193.65
+Laterite Soil,Coconut,Puncha (Summer),7.4,79,30,42,Potash,169.04
+Laterite Soil,Cashew,Puncha (Summer),6.9,98,60,129,Urea,115.09
+Laterite Soil,Cardamom,Virippu (Kharif),5.5,99,39,133,18-18-18,117.3
+Laterite Soil,Rice (Paddy),Virippu (Kharif),6.0,61,58,100,Potash,162.03
+Laterite Soil,Pepper,Mundakan (Rabi),4.6,110,50,147,18-18-18,123.67
+Laterite Soil,Cardamom,Virippu (Kharif),6.7,53,49,49,20-20-20,177.38
+Laterite Soil,Cardamom,Puncha (Summer),5.6,72,71,52,18-18-18,155.28
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),6.0,30,22,124,Urea,177.08
+Sandy Loam,Rice (Paddy),Virippu (Kharif),4.8,48,27,114,Urea,144.81
+Sandy Loam,Rice (Paddy),Virippu (Kharif),7.0,108,38,21,DAP,180.71
+Laterite Soil,Rubber,Mundakan (Rabi),7.1,48,18,135,Factamfos,174.17
+Forest Loam,Coconut,Virippu (Kharif),5.2,37,77,146,Urea,178.38
+Laterite Soil,Rice (Paddy),Puncha (Summer),6.5,40,38,132,Factamfos,158.27
+Sandy Loam,Coconut,Virippu (Kharif),6.0,107,76,106,20-20-20,142.01
+Laterite Soil,Coconut,Virippu (Kharif),6.9,94,54,118,20-20-20,180.77
+Laterite Soil,Coconut,Virippu (Kharif),6.6,62,74,83,20-20-20,200.08
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.1,108,43,108,Potash,143.22
+Laterite Soil,Banana,Virippu (Kharif),5.8,75,61,144,Factamfos,139.99
+Coastal Alluvium,Coconut,Mundakan (Rabi),7.3,107,70,122,20-20-20,184.43
+Forest Loam,Cardamom,Mundakan (Rabi),6.0,20,53,21,20-20-20,208.55
+Laterite Soil,Pepper,Puncha (Summer),4.8,33,13,138,DAP,184.42
+Laterite Soil,Pepper,Puncha (Summer),6.3,82,63,142,20-20-20,122.44
+Coastal Alluvium,Banana,Mundakan (Rabi),5.2,115,24,103,18-18-18,170.75
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.9,59,29,63,Urea,180.67
+Laterite Soil,Rice (Paddy),Virippu (Kharif),6.6,87,62,44,Potash,151.56
+Laterite Soil,Rubber,Puncha (Summer),5.6,27,22,77,Factamfos,230.99
+Laterite Soil,Rice (Paddy),Puncha (Summer),4.6,63,17,43,DAP,172.09
+Coastal Alluvium,Cashew,Mundakan (Rabi),7.0,93,13,103,18-18-18,175.5
+Coastal Alluvium,Rubber,Mundakan (Rabi),4.6,78,46,149,Urea,138.31
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.9,35,61,57,Urea,146.74
+Forest Loam,Rice (Paddy),Puncha (Summer),4.6,47,75,141,Urea,104.95
+Forest Loam,Rice (Paddy),Mundakan (Rabi),5.8,29,72,68,Urea,164.42
+Laterite Soil,Rice (Paddy),Puncha (Summer),6.9,35,32,129,Factamfos,154.24
+Laterite Soil,Coconut,Virippu (Kharif),5.6,79,30,21,Potash,232.49
+Laterite Soil,Cardamom,Virippu (Kharif),6.3,56,32,71,20-20-20,170.51
+Laterite Soil,Rubber,Virippu (Kharif),6.8,47,42,135,18-18-18,162.93
+Sandy Loam,Rice (Paddy),Virippu (Kharif),7.1,118,40,131,Potash,116.44
+Laterite Soil,Rubber,Puncha (Summer),5.1,40,20,112,Factamfos,215.5
+Laterite Soil,Coconut,Mundakan (Rabi),7.3,74,66,35,Potash,187.12
+Coastal Alluvium,Rubber,Mundakan (Rabi),4.6,75,37,143,18-18-18,188.26
+Sandy Loam,Cashew,Virippu (Kharif),6.8,31,13,122,20-20-20,191.12
+Forest Loam,Rice (Paddy),Mundakan (Rabi),5.5,80,33,119,DAP,170.95
+Coastal Alluvium,Rubber,Mundakan (Rabi),7.0,108,63,48,18-18-18,176.59
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.8,28,57,99,Factamfos,148.64
+Coastal Alluvium,Coconut,Mundakan (Rabi),6.5,115,63,34,18-18-18,178.1
+Laterite Soil,Cardamom,Mundakan (Rabi),5.6,98,41,59,20-20-20,176.54
+Forest Loam,Banana,Mundakan (Rabi),5.8,79,55,135,18-18-18,136.22
+Forest Loam,Rubber,Mundakan (Rabi),5.2,83,62,137,18-18-18,137.99
+Forest Loam,Rice (Paddy),Puncha (Summer),6.0,31,70,62,Factamfos,153.71
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.6,85,48,74,Potash,175.15
+Coastal Alluvium,Rubber,Puncha (Summer),5.6,48,25,121,Factamfos,194.62
+Forest Loam,Rice (Paddy),Puncha (Summer),6.0,95,11,141,DAP,143.52
+Forest Loam,Coconut,Virippu (Kharif),4.9,54,28,138,20-20-20,157.5
+Laterite Soil,Rice (Paddy),Virippu (Kharif),5.5,38,43,57,Urea,170.39
+Sandy Loam,Cardamom,Mundakan (Rabi),6.7,24,44,75,18-18-18,159.86
+Coastal Alluvium,Coconut,Mundakan (Rabi),4.8,92,22,71,Potash,183.45
+Sandy Loam,Rubber,Mundakan (Rabi),6.7,58,70,145,18-18-18,158.03
+Red Soil,Rice (Paddy),Puncha (Summer),5.7,68,68,110,Potash,160.85
+Coastal Alluvium,Coconut,Virippu (Kharif),4.7,90,15,21,Potash,235.71
+Forest Loam,Rubber,Mundakan (Rabi),7.2,63,50,43,Urea,212.19
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.4,105,61,40,Potash,151.04
+Laterite Soil,Rubber,Virippu (Kharif),5.5,55,39,145,18-18-18,185.79
+Laterite Soil,Rice (Paddy),Puncha (Summer),7.5,59,78,52,Urea,166.7
+Laterite Soil,Cardamom,Mundakan (Rabi),7.2,77,30,118,20-20-20,144.47
+Coastal Alluvium,Coconut,Virippu (Kharif),4.7,110,29,116,20-20-20,142.26
+Red Soil,Rubber,Mundakan (Rabi),6.6,20,58,74,Urea,199.13
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),7.0,72,36,118,DAP,155.81
+Forest Loam,Cashew,Mundakan (Rabi),6.0,79,27,113,Factamfos,193.18
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),6.4,75,11,42,DAP,178.96
+Sandy Loam,Coconut,Mundakan (Rabi),5.7,53,41,25,Potash,234.81
+Red Soil,Coconut,Mundakan (Rabi),7.0,38,42,107,Urea,177.79
+Coastal Alluvium,Rice (Paddy),Puncha (Summer),6.9,95,23,78,DAP,123.97
+Sandy Loam,Coconut,Puncha (Summer),6.4,30,73,97,Urea,178.12
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),6.5,61,18,36,DAP,180.44
+Sandy Loam,Rubber,Virippu (Kharif),5.7,29,59,115,18-18-18,160.1
+Coastal Alluvium,Coconut,Puncha (Summer),6.9,119,25,46,18-18-18,199.33
+Forest Loam,Rubber,Mundakan (Rabi),7.1,87,57,24,Urea,188.96
+Laterite Soil,Coconut,Puncha (Summer),5.5,69,48,122,20-20-20,168.72
+Laterite Soil,Pepper,Puncha (Summer),5.1,52,59,45,Potash,161.83
+Laterite Soil,Rubber,Virippu (Kharif),4.8,76,62,125,Urea,146.23
+Laterite Soil,Rubber,Virippu (Kharif),6.9,110,26,25,18-18-18,188.16
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),4.6,34,61,94,Factamfos,150.64
+Coastal Alluvium,Banana,Puncha (Summer),6.7,109,35,49,Urea,155.4
+Coastal Alluvium,Banana,Puncha (Summer),7.5,20,16,104,DAP,175.54
+Coastal Alluvium,Rubber,Virippu (Kharif),6.2,91,76,67,Urea,185.41
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),7.0,110,57,82,Potash,121.98
+Forest Loam,Coconut,Puncha (Summer),7.3,85,47,145,20-20-20,163.72
+Laterite Soil,Rice (Paddy),Puncha (Summer),4.5,31,44,36,Factamfos,194.12
+Laterite Soil,Rice (Paddy),Puncha (Summer),7.4,31,61,96,Urea,157.55
+Laterite Soil,Coconut,Puncha (Summer),5.3,57,51,58,Potash,178.99
+Coastal Alluvium,Rubber,Puncha (Summer),5.1,33,64,125,18-18-18,181.08
+Coastal Alluvium,Coconut,Mundakan (Rabi),6.0,112,28,84,20-20-20,170.95
+Laterite Soil,Coconut,Virippu (Kharif),5.4,69,65,58,Potash,184.18
+Coastal Alluvium,Coconut,Virippu (Kharif),6.6,33,30,57,Potash,230.69
+Laterite Soil,Pepper,Virippu (Kharif),6.2,90,40,55,20-20-20,140.58
+Laterite Soil,Cardamom,Mundakan (Rabi),5.5,44,45,91,20-20-20,134.62
+Coastal Alluvium,Coconut,Mundakan (Rabi),5.9,27,47,95,Urea,215.65
+Forest Loam,Coconut,Virippu (Kharif),6.3,44,27,79,18-18-18,205.15
+Laterite Soil,Cardamom,Mundakan (Rabi),4.9,81,45,25,DAP,143.12
+Sandy Loam,Banana,Virippu (Kharif),7.3,58,17,27,Urea,204.14
+Forest Loam,Cardamom,Virippu (Kharif),6.9,82,21,45,Potash,148.73
+Forest Loam,Rice (Paddy),Virippu (Kharif),7.2,40,59,71,Factamfos,167.57
+Coastal Alluvium,Rubber,Puncha (Summer),5.6,109,31,132,18-18-18,181.21
+Coastal Alluvium,Rice (Paddy),Mundakan (Rabi),6.7,58,22,110,Urea,156.02
+Forest Loam,Rubber,Virippu (Kharif),5.1,68,75,137,18-18-18,177.3
+Sandy Loam,Cardamom,Virippu (Kharif),6.8,52,48,75,18-18-18,156.87
+Red Soil,Coconut,Virippu (Kharif),5.6,68,12,94,20-20-20,199.2
+Forest Loam,Rice (Paddy),Mundakan (Rabi),4.9,46,35,139,Factamfos,109.69
+Forest Loam,Cashew,Virippu (Kharif),4.8,95,16,76,DAP,201.86
+Laterite Soil,Coconut,Mundakan (Rabi),6.8,71,12,101,20-20-20,174.47
+Laterite Soil,Coconut,Puncha (Summer),5.6,73,13,91,20-20-20,199.51
+Laterite Soil,Coconut,Virippu (Kharif),5.6,53,26,45,Potash,190.81
+Laterite Soil,Coconut,Mundakan (Rabi),7.4,69,46,73,18-18-18,213.0
+Laterite Soil,Coconut,Mundakan (Rabi),6.5,99,69,139,20-20-20,128.06
+Laterite Soil,Coconut,Puncha (Summer),5.9,57,44,102,20-20-20,192.83
+Laterite Soil,Cardamom,Virippu (Kharif),5.7,71,65,105,18-18-18,158.37
+Laterite Soil,Banana,Puncha (Summer),7.0,95,48,101,20-20-20,125.54
+Forest Loam,Coconut,Virippu (Kharif),7.2,118,66,145,20-20-20,136.49
+Laterite Soil,Rice (Paddy),Mundakan (Rabi),5.0,50,40,133,Urea,136.09
+Red Soil,Rice (Paddy),Mundakan (Rabi),5.9,45,79,69,Factamfos,179.52
+Coastal Alluvium,Coconut,Mundakan (Rabi),7.1,60,61,90,20-20-20,190.57
+Laterite Soil,Coconut,Mundakan (Rabi),7.0,87,48,125,20-20-20,168.53
+Sandy Loam,Rice (Paddy),Virippu (Kharif),6.5,68,48,73,Potash,171.63
+Laterite Soil,Coconut,Mundakan (Rabi),6.4,49,12,90,Urea,182.92
+Laterite Soil,Banana,Mundakan (Rabi),5.2,101,46,21,18-18-18,145.89
+Sandy Loam,Coconut,Virippu (Kharif),5.8,90,79,76,Potash,148.65
+Laterite Soil,Cardamom,Virippu (Kharif),5.0,32,52,43,18-18-18,172.92
+Coastal Alluvium,Cardamom,Virippu (Kharif),4.7,53,23,95,DAP,185.25
+Forest Loam,Rice (Paddy),Puncha (Summer),5.7,102,50,143,Potash,111.43
+Laterite Soil,Pepper,Virippu (Kharif),6.0,54,27,100,20-20-20,155.6
+Coastal Alluvium,Rice (Paddy),Virippu (Kharif),5.7,117,18,60,DAP,154.58
+Laterite Soil,Rubber,Mundakan (Rabi),6.5,62,51,77,Urea,192.84
+Forest Loam,Coconut,Puncha (Summer),5.2,68,31,116,20-20-20,169.82
+Laterite Soil,Rice (Paddy),Puncha (Summer),6.9,71,14,70,DAP,159.08
+Coastal Alluvium,Banana,Virippu (Kharif),4.6,30,52,23,Urea,179.3
+Sandy Loam,Coconut,Puncha (Summer),5.1,49,55,79,Potash,211.85
+Sandy Loam,Rice (Paddy),Puncha (Summer),4.8,44,20,92,Factamfos,184.64
+Forest Loam,Coconut,Puncha (Summer),7.1,113,35,52,Potash,209.33
+Coastal Alluvium,Rubber,Mundakan (Rabi),5.2,47,51,149,18-18-18,184.49
+Laterite Soil,Rubber,Puncha (Summer),7.1,33,22,80,Factamfos,211.23
+Laterite Soil,Pepper,Mundakan (Rabi),4.7,91,53,109,20-20-20,145.46
+Laterite Soil,Rice (Paddy),Puncha (Summer),5.5,22,31,43,Urea,182.73
+Laterite Soil,Cardamom,Puncha (Summer),5.7,65,50,126,18-18-18,129.82
+Forest Loam,Rice (Paddy),Mundakan (Rabi),5.0,47,48,146,Urea,130.14
+Laterite Soil,Coconut,Virippu (Kharif),7.1,84,36,27,Potash,230.14
+Coastal Alluvium,Banana,Virippu (Kharif),5.4,29,38,143,DAP,142.0
+Coastal Alluvium,Rubber,Puncha (Summer),5.9,72,29,80,Urea,177.36
+Red Soil,Coconut,Mundakan (Rabi),5.9,115,42,140,20-20-20,147.49
